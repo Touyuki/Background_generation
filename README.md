@@ -22,3 +22,5 @@ These images shows the images in the last epoch in our training. The upper right
 ```bash
 python train.py
 ```
+
+We uploaded pre-trained weight files. The verification code is "".
