@@ -3,6 +3,7 @@ This project is used to generate the background of a image. The purpuse is to ma
 ![image](https://github.com/Touyuki/Background_generation/blob/main/images/csa.png)
 
 This model is based on a modified CSA-inpainting model. We deleted their CSA layer because our task is quite easier than image inpainting.
+original paper:https://arxiv.org/abs/1905.12384
 
 ![image](https://github.com/Touyuki/Background_generation/blob/main/images/21.png)
 
