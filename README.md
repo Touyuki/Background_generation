@@ -1,10 +1,18 @@
 This project is used to generate the background of a image. The purpuse is to make one image look like book covers more. The process is like:
 
-
+![image](https://github.com/Touyuki/Background_generation/blob/main/images/csa.png)
 
 This model is based on a modified CSA-inpainting model. We deleted their CSA layer because our task is quite easier than image inpainting.
 
-In these images,
+These images shows the images in the last epoch in our training. The upper right one is the ground truth image and the bottom left one is generated one.
+
+![image](https://github.com/Touyuki/Background_generation/blob/main/images/1.jpg)
+
+
+![image](https://github.com/Touyuki/Background_generation/blob/main/images/2.jpg)
+
+
+![image](https://github.com/Touyuki/Background_generation/blob/main/images/3.jpg)
 
 ### Train
 ```bash
